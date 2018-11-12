@@ -1,0 +1,12 @@
+clc;
+clear;
+N=40;
+n=0:N-1;
+t=0.01*n;
+x=2*cos(4*pi*t)+5*cos(8*pi*t);
+subplot(2,1,1);stem(t,x,'.');title('signal x(n)');grid;
+X=fft(x,N);
+magx=abs(X(1:1:N/2+1));
+k=[0:1:N/2];w=2*pi/N*k;
+subplot(2,1,2);plot(w/pi,magx);title('FFT N=128');
+xlabel('ÆµÂÊ(µ¥Î»£ºpi)');ylabel('|X|');grid;
