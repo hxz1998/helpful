@@ -16,7 +16,7 @@
     1. [第一次实验](/DigitalSignalProcessing/sample_1/)
        1. [第一题](/DigitalSignalProcessing/sample_1/monkey_1.m)
        2. [第二题](/DigitalSignalProcessing/sample_1/monkey_2.m)
-       3. [第三题](/DigitalSignalProcessing/sample_1/monkey_4.m)
+       3. [第三题](/DigitalSignalProcessing/sample_1/monkey_3.m)
        4. [第五题](/DigitalSignalProcessing/sample_1/monkey_5.m)
     2. [第二次实验](/DigitalSignalProcessing/sample_2/)
        1. [第一题](/DigitalSignalProcessing/sample_2/monkey_1.m)
