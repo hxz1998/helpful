@@ -15,6 +15,10 @@
        2. [类的实现](/DSAndAA/introduction_3/BigInteger.cpp)
        3. [运行器](/DSAndAA/introduction_3/summator_runner.cpp)
     6. [倒序输出非负整数](/DSAndAA/introduction_3/reverse.cpp)
+    7. [使用ArrayList实现大整数相加](/algorithm_analysis/)
+       1. [ArrayList.cpp](/algorithm_analysis/array_list.cpp)
+       2. [BigInteger.cpp](/algorithm_analysis/BigInteger2.cpp)
+       3. [运行器](/algorithm_analysis/summator_runner.cpp)
 
   * [数字信号处理](/DigitalSignalProcessing/)
 
@@ -28,10 +32,14 @@
        2. [第二题](/DigitalSignalProcessing/sample_2/monkey_2.m)
        3. [第三题](/DigitalSignalProcessing/sample_2/monkey_3.m)
        4. [第四题](/DigitalSignalProcessing/sample_2/monkey_4.m)
+    3. [第三次实验](/DigitalSignalProcessing/sample_3/)
+       1. [第一题](/DigitalSignalProcessing/sample_3/monkey_1.m)
+       2. [第二题](/DigitalSignalProcessing/sample_3/monkey_2.m)
+       3. [第三题](/DigitalSignalProcessing/sample_3/monkey_3.m)
 
   * [MCS-51微机原理](/MCS_51Experiment/)
 
-    * 占个位子
+    * 不需要了吧，hhh
 
     
 
