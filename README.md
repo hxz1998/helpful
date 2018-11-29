@@ -15,10 +15,10 @@
        2. [类的实现](/DSAndAA/introduction_3/BigInteger.cpp)
        3. [运行器](/DSAndAA/introduction_3/summator_runner.cpp)
     6. [倒序输出非负整数](/DSAndAA/introduction_3/reverse.cpp)
-    7. [使用ArrayList实现大整数相加](/algorithm_analysis/)
-       1. [ArrayList.cpp](/algorithm_analysis/array_list.cpp)
-       2. [BigInteger.cpp](/algorithm_analysis/BigInteger2.cpp)
-       3. [运行器](/algorithm_analysis/summator_runner.cpp)
+    7. [使用ArrayList实现大整数相加](/DSAndAA/algorithm_analysis/)
+       1. [ArrayList.cpp](/DSAndAA/algorithm_analysis/array_list.cpp)
+       2. [BigInteger.cpp](/DSAndAA/algorithm_analysis/BigInteger2.cpp)
+       3. [运行器](/DSAndAA/algorithm_analysis/summator_runner.cpp)
 
   * [数字信号处理](/DigitalSignalProcessing/)
 
